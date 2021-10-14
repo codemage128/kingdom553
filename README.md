@@ -1,5 +1,5 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-### Hi there! I am Asilbek. Give me  👋
+### Hi there! Give me  👋
 ### ⚡ Fun fact is coding.
 
 <a href="https://github.com/kingdom553/kingdom553">
