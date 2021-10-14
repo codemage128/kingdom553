@@ -2,9 +2,6 @@
 ### Hi there! Give me  👋
 ### ⚡ Fun fact is coding.
 
-![alt text](https://github.com/kingdom553/github-stats/blob/master/generated/overview.svg?raw=true)
-![alt text](https://github.com/kingdom553/github-stats/blob/master/generated/languages.svg?raw=true)
-
 <a href="https://github.com/kingdom553/kingdom553">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingdom553&layout=compact&hide=html&langs_count=10&title_color=fff&icon_color=79ff97&text_color=000&bg_color=fff" height=180 />
 </a>
