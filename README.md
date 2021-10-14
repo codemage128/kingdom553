@@ -5,7 +5,6 @@
 ![alt text](https://github.com/kingdom553/github-stats/blob/master/generated/overview.svg?raw=true)
 ![alt text](https://github.com/kingdom553/github-stats/blob/master/generated/languages.svg?raw=true)
 
-
 <a href="https://github.com/kingdom553/kingdom553">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingdom553&layout=compact&hide=html&langs_count=10&title_color=fff&icon_color=79ff97&text_color=000&bg_color=fff" height=180 />
 </a>
@@ -13,7 +12,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kingdom553&show_icons=true&include_all_commits=true&count_private=true&title_color=123&icon_color=45aa44&text_color=9f9f9f&bg_color=fff" height=180 />
 </a>
 
-## :wrench: Technologies and Tools
+## ✨ Technologies and Tools
 ![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=3bac3a)
