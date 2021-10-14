@@ -1,4 +1,6 @@
-### Hi there 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+### Hi there! I am Asilbek. Give me  👋
+### ⚡ Fun fact is coding.
 
 <a href="https://github.com/kingdom553/kingdom553">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingdom553&layout=compact&hide=html&langs_count=10&title_color=fff&icon_color=79ff97&text_color=45aa44&bg_color=fff" height=180 />
