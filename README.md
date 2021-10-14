@@ -2,8 +2,8 @@
 ### Hi there! Give me  👋
 ### ⚡ Fun fact is coding.
 
-[alt text](https://github.com/bigshoesdev/github-stats/blob/master/generated/overview.svg?raw=true)
-![alt text](https://github.com/bigshoesdev/github-stats/blob/master/generated/languages.svg?raw=true)
+![alt text](https://github.com/kingdom553/github-stats/blob/master/generated/overview.svg?raw=true)
+![alt text](https://github.com/kingdom553/github-stats/blob/master/generated/languages.svg?raw=true)
 
 
 <a href="https://github.com/kingdom553/kingdom553">
